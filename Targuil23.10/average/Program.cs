@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Question_1
+namespace Average
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Enter your grades in math");
-            double m = double.Parse (Console.ReadLine());
+            double m = double.Parse(Console.ReadLine());
             Console.WriteLine("Enter your grades in english");
             double e = double.Parse(Console.ReadLine());
             Console.WriteLine("Enter your grades in physics");
@@ -19,7 +19,7 @@ namespace Question_1
 
             double math = 0;
             math = m * 0.4;
-            
+
             double english = 0;
             english = e * 0.2;
 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2D262F2-5CE6-48A0-839D-E11959A29A10}</ProjectGuid>
+    <ProjectGuid>{F65DE288-CD50-4701-8AE2-A844D6D1A344}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Question_1</RootNamespace>
-    <AssemblyName>Question 1</AssemblyName>
+    <RootNamespace>Average</RootNamespace>
+    <AssemblyName>Average</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
